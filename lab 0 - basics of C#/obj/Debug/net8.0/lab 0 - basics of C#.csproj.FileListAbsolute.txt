@@ -1,0 +1,14 @@
+C:\Users\nidaa\OneDrive\Desktop\C#\NEW\lab 0 - basics of C#\bin\Debug\net8.0\lab 0 - basics of C#.exe
+C:\Users\nidaa\OneDrive\Desktop\C#\NEW\lab 0 - basics of C#\bin\Debug\net8.0\lab 0 - basics of C#.deps.json
+C:\Users\nidaa\OneDrive\Desktop\C#\NEW\lab 0 - basics of C#\bin\Debug\net8.0\lab 0 - basics of C#.runtimeconfig.json
+C:\Users\nidaa\OneDrive\Desktop\C#\NEW\lab 0 - basics of C#\bin\Debug\net8.0\lab 0 - basics of C#.dll
+C:\Users\nidaa\OneDrive\Desktop\C#\NEW\lab 0 - basics of C#\bin\Debug\net8.0\lab 0 - basics of C#.pdb
+C:\Users\nidaa\OneDrive\Desktop\C#\NEW\lab 0 - basics of C#\obj\Debug\net8.0\lab 0 - basics of C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nidaa\OneDrive\Desktop\C#\NEW\lab 0 - basics of C#\obj\Debug\net8.0\lab 0 - basics of C#.AssemblyInfoInputs.cache
+C:\Users\nidaa\OneDrive\Desktop\C#\NEW\lab 0 - basics of C#\obj\Debug\net8.0\lab 0 - basics of C#.AssemblyInfo.cs
+C:\Users\nidaa\OneDrive\Desktop\C#\NEW\lab 0 - basics of C#\obj\Debug\net8.0\lab 0 - basics of C#.csproj.CoreCompileInputs.cache
+C:\Users\nidaa\OneDrive\Desktop\C#\NEW\lab 0 - basics of C#\obj\Debug\net8.0\lab 0 - basics of C#.dll
+C:\Users\nidaa\OneDrive\Desktop\C#\NEW\lab 0 - basics of C#\obj\Debug\net8.0\refint\lab 0 - basics of C#.dll
+C:\Users\nidaa\OneDrive\Desktop\C#\NEW\lab 0 - basics of C#\obj\Debug\net8.0\lab 0 - basics of C#.pdb
+C:\Users\nidaa\OneDrive\Desktop\C#\NEW\lab 0 - basics of C#\obj\Debug\net8.0\lab 0 - basics of C#.genruntimeconfig.cache
+C:\Users\nidaa\OneDrive\Desktop\C#\NEW\lab 0 - basics of C#\obj\Debug\net8.0\ref\lab 0 - basics of C#.dll
